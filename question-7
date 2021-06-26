@@ -1,0 +1,3 @@
+v=input()
+x=len(v)
+print("%d digits"%x)
