@@ -1,0 +1,12 @@
+#import complex math module
+import cmath
+a=int(input())
+b=int(input())
+c=int(input())
+x=((b**2)-4*(a*c))
+i=(cmath.sqrt(x))
+root1=(-b-i)/2*a
+root2=(-b+i)/2*a
+print("the roots are:")
+print(root1)
+print(root2)
