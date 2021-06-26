@@ -1,0 +1,4 @@
+a=int(input())
+PI=3.14159265359
+v=4/3*PI*a**3
+print(v)
