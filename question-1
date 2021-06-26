@@ -1,0 +1,6 @@
+s="Hey i am from New delhi"
+
+print(len(s))
+li=list(s.split(" "))
+print(li)
+print(type(li))
