@@ -1,0 +1,6 @@
+a=int(input())
+PI=3.14159265359
+b=2*PI*a
+c=PI*a**2
+print("circumference of circle:",b)
+print("area of circle:",c)
