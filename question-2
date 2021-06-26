@@ -1,0 +1,6 @@
+s="name is rahul"
+a=s.capitalize()
+print(a)
+print(s.title())
+#print(s[:-12][-8].upper()+s[1:].lower())
+print(s.upper())
